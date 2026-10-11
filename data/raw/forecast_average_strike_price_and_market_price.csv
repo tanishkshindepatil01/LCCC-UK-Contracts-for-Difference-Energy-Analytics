@@ -1,0 +1,324 @@
+Financial_Year,Technology_type,Transmission_or_Distribution_connection,Allocation_Round_1_Weighted_Average_Strike_Price_GBP_per_MWh,Allocation_Round_2_Weighted_Average_Strike_Price_GBP_per_MWh,Allocation_Round_3_Weighted_Average_Strike_Price_GBP_per_MWh,Bespoke_Weighted_Average_Strike_Price_GBP_per_MWh,Investment_Contract_Weighted_Average_Strike_Price_GBP_per_MWh,Weighted_Average_Strike_Price_GBP_per_MWh,DESNZ_Forecast_Wholesale_Price_GBP_per_MWh
+"2024/25","Energy from Waste","Distribution",111.3200,,,,,111.3200,78.6000
+"2024/25","Solar PV","Distribution",11.2500,,,,,49.2331,78.6000
+"2024/25","Solar PV","Transmission",,,,,,59.4200,78.6000
+"2024/25","Nuclear","Transmission",,,,,,,78.6000
+"2024/25","Tidal Stream","Distribution",,,,,,,78.6000
+"2024/25","Tidal Stream","Transmission",,,,,,,78.6000
+"2024/25","Offshore Wind","Distribution",,,,,,,78.6000
+"2024/25","Offshore Wind","Transmission",165.6145,62.7803,51.8900,,123.2741,98.4187,78.6000
+"2024/25","Remote Island Wind","Distribution",,,,,,,78.6000
+"2024/25","Remote Island Wind","Transmission",,,,,,,78.6000
+"2024/25","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,78.6000
+"2024/25","Biomass Conversion","Distribution",,,,,145.2000,145.2000,78.6000
+"2024/25","Biomass Conversion","Transmission",,,,,138.1600,138.1600,78.6000
+"2024/25","Onshore Wind","Distribution",101.5934,,,,,101.5934,78.6000
+"2024/25","Onshore Wind","Transmission",113.4788,,,,,113.1878,78.6000
+"2024/25","Geothermal","Distribution",,,,,,,78.6000
+"2024/25","Floating Offshore Wind","Distribution",,,,,,,78.6000
+"2024/25","Dedicated Biomass","Distribution",,,,,,,78.6000
+"2024/25","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,78.6000
+"2025/26","Dedicated Biomass","Distribution",,,,,,,69.7000
+"2025/26","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,69.7000
+"2025/26","Biomass Conversion","Distribution",,,,,145.2000,145.2000,69.7000
+"2025/26","Biomass Conversion","Transmission",,,,,138.1600,138.1600,69.7000
+"2025/26","Nuclear","Transmission",,,,,,,69.7000
+"2025/26","Tidal Stream","Distribution",,,,,,,69.7000
+"2025/26","Tidal Stream","Transmission",,,,,,,69.7000
+"2025/26","Energy from Waste","Distribution",111.3200,,,,,111.3200,69.7000
+"2025/26","Solar PV","Distribution",11.2500,,,,,63.2985,69.7000
+"2025/26","Solar PV","Transmission",,,,,,59.6759,69.7000
+"2025/26","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,69.7000
+"2025/26","Offshore Wind","Distribution",,,,,,,69.7000
+"2025/26","Offshore Wind","Transmission",163.2979,62.7803,52.8521,,123.2741,89.7384,69.7000
+"2025/26","Remote Island Wind","Distribution",,,,,,,69.7000
+"2025/26","Remote Island Wind","Transmission",,,,,,,69.7000
+"2025/26","Floating Offshore Wind","Distribution",,,,,,,69.7000
+"2025/26","Onshore Wind","Distribution",101.6017,,,,,101.6017,69.7000
+"2025/26","Onshore Wind","Transmission",113.4788,,,,,75.4059,69.7000
+"2025/26","Geothermal","Distribution",,,,,,165.5901,69.7000
+"2026/27","Geothermal","Distribution",,,,,,165.5900,61.6000
+"2026/27","Offshore Wind","Distribution",,,,,,,61.6000
+"2026/27","Offshore Wind","Transmission",163.2979,62.7803,53.1855,,123.2741,83.0144,61.6000
+"2026/27","Nuclear","Transmission",,,,,,,61.6000
+"2026/27","Tidal Stream","Distribution",,,,,,273.8029,61.6000
+"2026/27","Tidal Stream","Transmission",,,,,,245.2901,61.6000
+"2026/27","Dedicated Biomass","Distribution",,,,,,,61.6000
+"2026/27","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,61.6000
+"2026/27","Biomass Conversion","Distribution",,,,,145.2000,145.2000,61.6000
+"2026/27","Biomass Conversion","Transmission",,,,,138.1600,138.1600,61.6000
+"2026/27","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,61.6000
+"2026/27","Energy from Waste","Distribution",111.3200,,,,,111.3200,61.6000
+"2026/27","Solar PV","Distribution",11.2500,,,,,63.5479,61.6000
+"2026/27","Solar PV","Transmission",,,,,,61.7004,61.6000
+"2026/27","Onshore Wind","Distribution",101.6017,,,,,97.0612,61.6000
+"2026/27","Onshore Wind","Transmission",113.4788,,,,,74.3902,61.6000
+"2026/27","Remote Island Wind","Distribution",,,,,,64.5507,61.6000
+"2026/27","Remote Island Wind","Transmission",,,51.8892,,,58.8229,61.6000
+"2026/27","Floating Offshore Wind","Distribution",,,,,,121.4801,61.6000
+"2027/28","Floating Offshore Wind","Distribution",,,,,,121.4800,59.7000
+"2027/28","Energy from Waste","Distribution",111.3200,,,,,111.3200,59.7000
+"2027/28","Nuclear","Transmission",,,,,,,59.7000
+"2027/28","Tidal Stream","Distribution",,,,,,259.5878,59.7000
+"2027/28","Tidal Stream","Transmission",,,,,,246.3876,59.7000
+"2027/28","Geothermal","Distribution",,,,,,165.5900,59.7000
+"2027/28","Offshore Wind","Distribution",,,,,,,59.7000
+"2027/28","Offshore Wind","Transmission",163.2979,62.7803,53.2900,,123.2741,79.4197,59.7000
+"2027/28","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,59.7000
+"2027/28","Dedicated Biomass","Distribution",,,,,,,59.7000
+"2027/28","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,59.7000
+"2027/28","Biomass Conversion","Distribution",,,,,145.2000,145.2000,59.7000
+"2027/28","Biomass Conversion","Transmission",,,,,138.1600,138.1600,59.7000
+"2027/28","Remote Island Wind","Distribution",,,,,,64.5500,59.7000
+"2027/28","Remote Island Wind","Transmission",,,51.8900,,,58.8573,59.7000
+"2027/28","Solar PV","Distribution",11.2500,,,,,63.8124,59.7000
+"2027/28","Solar PV","Transmission",,,,,,61.9199,59.7000
+"2027/28","Onshore Wind","Distribution",101.6017,,,,,90.7882,59.7000
+"2027/28","Onshore Wind","Transmission",113.4788,,,,,72.2026,59.7000
+"2028/29","Onshore Wind","Distribution",101.6017,,,,,88.6091,53.1000
+"2028/29","Onshore Wind","Transmission",113.4788,,,,,72.7382,53.1000
+"2028/29","Dedicated Biomass","Distribution",,,,,,,53.1000
+"2028/29","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,53.1000
+"2028/29","Nuclear","Transmission",,,,,,,53.1000
+"2028/29","Tidal Stream","Distribution",,,,,,263.5628,53.1000
+"2028/29","Tidal Stream","Transmission",,,,,,263.7939,53.1000
+"2028/29","Floating Offshore Wind","Distribution",,,,,,121.4800,53.1000
+"2028/29","Energy from Waste","Distribution",111.3200,,,,,111.3200,53.1000
+"2028/29","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,53.1000
+"2028/29","Geothermal","Distribution",,,,,,165.5900,53.1000
+"2028/29","Offshore Wind","Distribution",,,,,,,53.1000
+"2028/29","Offshore Wind","Transmission",163.2979,62.7803,53.3287,,123.2741,74.9509,53.1000
+"2028/29","Solar PV","Distribution",11.2500,,,,,64.2677,53.1000
+"2028/29","Solar PV","Transmission",,,,,,62.6901,53.1000
+"2028/29","Biomass Conversion","Distribution",,,,,145.2000,145.2000,53.1000
+"2028/29","Biomass Conversion","Transmission",,,,,138.1600,138.1600,53.1000
+"2028/29","Remote Island Wind","Distribution",,,,,,64.5500,53.1000
+"2028/29","Remote Island Wind","Transmission",,,51.8900,,,65.5763,53.1000
+"2029/30","Remote Island Wind","Distribution",,,,,,64.5500,50.1000
+"2029/30","Remote Island Wind","Transmission",,,51.8900,,,65.5763,50.1000
+"2029/30","Geothermal","Distribution",,,,,,165.5900,50.1000
+"2029/30","Nuclear","Transmission",,,,125.9561,,125.9561,50.1000
+"2029/30","Tidal Stream","Distribution",,,,,,263.5628,50.1000
+"2029/30","Tidal Stream","Transmission",,,,,,263.7939,50.1000
+"2029/30","Onshore Wind","Distribution",101.6017,,,,,88.6091,50.1000
+"2029/30","Onshore Wind","Transmission",113.4788,,,,,72.7382,50.1000
+"2029/30","Dedicated Biomass","Distribution",,,,,,,50.1000
+"2029/30","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,50.1000
+"2029/30","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,50.1000
+"2029/30","Floating Offshore Wind","Distribution",,,,,,121.4800,50.1000
+"2029/30","Energy from Waste","Distribution",111.3200,,,,,111.3200,50.1000
+"2029/30","Biomass Conversion","Distribution",,,,,145.2000,145.2000,50.1000
+"2029/30","Biomass Conversion","Transmission",,,,,138.1600,138.1600,50.1000
+"2029/30","Offshore Wind","Distribution",,,,,,,50.1000
+"2029/30","Offshore Wind","Transmission",163.2979,62.7803,53.3287,,123.2741,72.7325,50.1000
+"2029/30","Solar PV","Distribution",11.2500,,,,,64.2677,50.1000
+"2029/30","Solar PV","Transmission",,,,,,62.6901,50.1000
+"2030/31","Solar PV","Distribution",11.2500,,,,,64.2677,47.3000
+"2030/31","Solar PV","Transmission",,,,,,62.6901,47.3000
+"2030/31","Floating Offshore Wind","Distribution",,,,,,121.4800,47.3000
+"2030/31","Nuclear","Transmission",,,,125.9561,,125.9561,47.3000
+"2030/31","Tidal Stream","Distribution",,,,,,263.5628,47.3000
+"2030/31","Tidal Stream","Transmission",,,,,,263.7939,47.3000
+"2030/31","Remote Island Wind","Distribution",,,57.9000,,,62.7974,47.3000
+"2030/31","Remote Island Wind","Transmission",,,51.8900,,,62.0644,47.3000
+"2030/31","Geothermal","Distribution",,,,,,165.5900,47.3000
+"2030/31","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,47.3000
+"2030/31","Onshore Wind","Distribution",101.6017,,,,,88.6091,47.3000
+"2030/31","Onshore Wind","Transmission",113.4788,,,,,72.7382,47.3000
+"2030/31","Dedicated Biomass","Distribution",,,,,,,47.3000
+"2030/31","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,47.3000
+"2030/31","Offshore Wind","Distribution",,,,,,,47.3000
+"2030/31","Offshore Wind","Transmission",163.2979,62.7803,53.3287,,123.2741,72.7325,47.3000
+"2030/31","Energy from Waste","Distribution",111.3200,,,,,111.3200,47.3000
+"2030/31","Biomass Conversion","Distribution",,,,,145.2000,145.2000,47.3000
+"2030/31","Biomass Conversion","Transmission",,,,,138.1600,138.1600,47.3000
+"2031/32","Biomass Conversion","Distribution",,,,,145.2000,145.2000,47.3000
+"2031/32","Biomass Conversion","Transmission",,,,,138.1600,138.1600,47.3000
+"2031/32","Onshore Wind","Distribution",101.6017,,,,,88.6091,47.3000
+"2031/32","Onshore Wind","Transmission",113.4788,,,,,72.7382,47.3000
+"2031/32","Nuclear","Transmission",,,,125.9561,,125.9561,47.3000
+"2031/32","Tidal Stream","Distribution",,,,,,263.5628,47.3000
+"2031/32","Tidal Stream","Transmission",,,,,,263.7939,47.3000
+"2031/32","Solar PV","Distribution",11.2500,,,,,64.2666,47.3000
+"2031/32","Solar PV","Transmission",,,,,,62.6901,47.3000
+"2031/32","Floating Offshore Wind","Distribution",,,,,,121.4800,47.3000
+"2031/32","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,47.3000
+"2031/32","Remote Island Wind","Distribution",,,57.9000,,,61.4765,47.3000
+"2031/32","Remote Island Wind","Transmission",,,51.8900,,,61.3132,47.3000
+"2031/32","Geothermal","Distribution",,,,,,165.5900,47.3000
+"2031/32","Energy from Waste","Distribution",111.3200,,,,,111.3200,47.3000
+"2031/32","Dedicated Biomass","Distribution",,,,,,,47.3000
+"2031/32","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,47.3000
+"2031/32","Offshore Wind","Distribution",,,,,,,47.3000
+"2031/32","Offshore Wind","Transmission",163.2979,62.7803,53.3287,,123.2741,72.7325,47.3000
+"2032/33","Offshore Wind","Distribution",,,,,,,49.9000
+"2032/33","Offshore Wind","Transmission",163.2979,62.7803,53.3287,,123.1892,72.7254,49.9000
+"2032/33","Remote Island Wind","Distribution",,,57.9000,,,61.4765,49.9000
+"2032/33","Remote Island Wind","Transmission",,,51.8900,,,61.3132,49.9000
+"2032/33","Nuclear","Transmission",,,,125.9561,,125.9561,49.9000
+"2032/33","Tidal Stream","Distribution",,,,,,263.5628,49.9000
+"2032/33","Tidal Stream","Transmission",,,,,,263.7939,49.9000
+"2032/33","Biomass Conversion","Distribution",,,,,145.2000,145.2000,49.9000
+"2032/33","Biomass Conversion","Transmission",,,,,138.1600,138.1600,49.9000
+"2032/33","Onshore Wind","Distribution",101.6017,,,,,88.6091,49.9000
+"2032/33","Onshore Wind","Transmission",113.4788,,,,,72.7382,49.9000
+"2032/33","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,49.9000
+"2032/33","Solar PV","Distribution",11.2500,,,,,64.2677,49.9000
+"2032/33","Solar PV","Transmission",,,,,,62.6901,49.9000
+"2032/33","Floating Offshore Wind","Distribution",,,,,,121.4800,49.9000
+"2032/33","Dedicated Biomass","Distribution",,,,,,,49.9000
+"2032/33","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,49.9000
+"2032/33","Geothermal","Distribution",,,,,,165.5900,49.9000
+"2032/33","Energy from Waste","Distribution",111.3200,,,,,111.3200,49.9000
+"2033/34","Energy from Waste","Distribution",111.3200,,,,,111.3200,52.3000
+"2033/34","Solar PV","Distribution",11.2500,,,,,64.2677,52.3000
+"2033/34","Solar PV","Transmission",,,,,,62.6901,52.3000
+"2033/34","Nuclear","Transmission",,,,125.9561,,125.9561,52.3000
+"2033/34","Tidal Stream","Distribution",,,,,,263.5628,52.3000
+"2033/34","Tidal Stream","Transmission",,,,,,263.7939,52.3000
+"2033/34","Offshore Wind","Distribution",,,,,,,52.3000
+"2033/34","Offshore Wind","Transmission",163.2993,62.7803,53.3287,,123.2581,72.7365,52.3000
+"2033/34","Remote Island Wind","Distribution",,,57.9000,,,61.4765,52.3000
+"2033/34","Remote Island Wind","Transmission",,,51.8900,,,61.3132,52.3000
+"2033/34","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,52.3000
+"2033/34","Biomass Conversion","Distribution",,,,,145.2000,145.2000,52.3000
+"2033/34","Biomass Conversion","Transmission",,,,,138.1600,138.1600,52.3000
+"2033/34","Onshore Wind","Distribution",101.5763,,,,,88.6005,52.3000
+"2033/34","Onshore Wind","Transmission",113.4788,,,,,72.7517,52.3000
+"2033/34","Geothermal","Distribution",,,,,,165.5900,52.3000
+"2033/34","Floating Offshore Wind","Distribution",,,,,,121.4800,52.3000
+"2033/34","Dedicated Biomass","Distribution",,,,,,,52.3000
+"2033/34","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,52.3000
+"2034/35","Dedicated Biomass","Distribution",,,,,,,54.3000
+"2034/35","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,54.3000
+"2034/35","Biomass Conversion","Distribution",,,,,145.2000,145.2000,54.3000
+"2034/35","Biomass Conversion","Transmission",,,,,138.1600,138.1600,54.3000
+"2034/35","Nuclear","Transmission",,,,125.9561,,125.9561,54.3000
+"2034/35","Tidal Stream","Distribution",,,,,,263.5628,54.3000
+"2034/35","Tidal Stream","Transmission",,,,,,263.7939,54.3000
+"2034/35","Energy from Waste","Distribution",111.3200,,,,,111.3200,54.3000
+"2034/35","Solar PV","Distribution",11.2500,,,,,64.2677,54.3000
+"2034/35","Solar PV","Transmission",,,,,,62.6901,54.3000
+"2034/35","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,54.3000
+"2034/35","Offshore Wind","Distribution",,,,,,,54.3000
+"2034/35","Offshore Wind","Transmission",163.3001,62.7803,53.3287,,123.3476,72.7580,54.3000
+"2034/35","Remote Island Wind","Distribution",,,57.9000,,,61.4765,54.3000
+"2034/35","Remote Island Wind","Transmission",,,51.8900,,,61.3132,54.3000
+"2034/35","Floating Offshore Wind","Distribution",,,,,,121.4800,54.3000
+"2034/35","Onshore Wind","Distribution",101.6243,,,,,88.6338,54.3000
+"2034/35","Onshore Wind","Transmission",113.4788,,,,,72.7382,54.3000
+"2034/35","Geothermal","Distribution",,,,,,165.5900,54.3000
+"2035/36","Geothermal","Distribution",,,,,,165.5900,55.6000
+"2035/36","Offshore Wind","Distribution",,,,,,,55.6000
+"2035/36","Offshore Wind","Transmission",163.2999,62.7803,53.3287,,123.3015,72.7440,55.6000
+"2035/36","Nuclear","Transmission",,,,125.9561,,125.9561,55.6000
+"2035/36","Tidal Stream","Distribution",,,,,,263.5628,55.6000
+"2035/36","Tidal Stream","Transmission",,,,,,263.7939,55.6000
+"2035/36","Dedicated Biomass","Distribution",,,,,,,55.6000
+"2035/36","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,55.6000
+"2035/36","Biomass Conversion","Distribution",,,,,145.2000,145.2000,55.6000
+"2035/36","Biomass Conversion","Transmission",,,,,138.1600,138.1600,55.6000
+"2035/36","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,55.6000
+"2035/36","Energy from Waste","Distribution",111.3200,,,,,111.3200,55.6000
+"2035/36","Solar PV","Distribution",11.2500,,,,,64.2677,55.6000
+"2035/36","Solar PV","Transmission",,,,,,62.6901,55.6000
+"2035/36","Onshore Wind","Distribution",101.6017,,,,,88.6091,55.6000
+"2035/36","Onshore Wind","Transmission",113.4788,,,,,72.7391,55.6000
+"2035/36","Remote Island Wind","Distribution",,,57.9000,,,61.4765,55.6000
+"2035/36","Remote Island Wind","Transmission",,,51.8900,,,61.3132,55.6000
+"2035/36","Floating Offshore Wind","Distribution",,,,,,121.4800,55.6000
+"2036/37","Floating Offshore Wind","Distribution",,,,,,121.4800,57.3000
+"2036/37","Energy from Waste","Distribution",111.3200,,,,,111.3200,57.3000
+"2036/37","Nuclear","Transmission",,,,125.9561,,125.9561,57.3000
+"2036/37","Tidal Stream","Distribution",,,,,,263.5628,57.3000
+"2036/37","Tidal Stream","Transmission",,,,,,263.7939,57.3000
+"2036/37","Geothermal","Distribution",,,,,,165.5900,57.3000
+"2036/37","Offshore Wind","Distribution",,,,,,,57.3000
+"2036/37","Offshore Wind","Transmission",163.2979,62.7669,53.3287,,123.2741,72.7296,57.3000
+"2036/37","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,57.3000
+"2036/37","Dedicated Biomass","Distribution",,,,,,,57.3000
+"2036/37","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,57.3000
+"2036/37","Biomass Conversion","Distribution",,,,,145.2000,145.2000,57.3000
+"2036/37","Biomass Conversion","Transmission",,,,,138.1600,138.1600,57.3000
+"2036/37","Remote Island Wind","Distribution",,,57.9000,,,61.4765,57.3000
+"2036/37","Remote Island Wind","Transmission",,,51.8900,,,61.3132,57.3000
+"2036/37","Solar PV","Distribution",11.2500,,,,,64.2677,57.3000
+"2036/37","Solar PV","Transmission",,,,,,62.6901,57.3000
+"2036/37","Onshore Wind","Distribution",101.6017,,,,,88.6091,57.3000
+"2036/37","Onshore Wind","Transmission",113.4788,,,,,72.7382,57.3000
+"2037/38","Onshore Wind","Distribution",101.6017,,,,,88.6091,59.9000
+"2037/38","Onshore Wind","Transmission",113.4788,,,,,72.7382,59.9000
+"2037/38","Dedicated Biomass","Distribution",,,,,,,59.9000
+"2037/38","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,59.9000
+"2037/38","Nuclear","Transmission",,,,125.9561,,125.9561,59.9000
+"2037/38","Tidal Stream","Distribution",,,,,,263.5628,59.9000
+"2037/38","Tidal Stream","Transmission",,,,,,263.7939,59.9000
+"2037/38","Floating Offshore Wind","Distribution",,,,,,121.4800,59.9000
+"2037/38","Energy from Waste","Distribution",111.3200,,,,,111.3200,59.9000
+"2037/38","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,59.9000
+"2037/38","Geothermal","Distribution",,,,,,165.5900,59.9000
+"2037/38","Offshore Wind","Distribution",,,,,,,59.9000
+"2037/38","Offshore Wind","Transmission",163.2979,62.7715,53.3287,,123.2741,72.7290,59.9000
+"2037/38","Solar PV","Distribution",11.2500,,,,,64.2677,59.9000
+"2037/38","Solar PV","Transmission",,,,,,62.6901,59.9000
+"2037/38","Biomass Conversion","Distribution",,,,,,,59.9000
+"2037/38","Biomass Conversion","Transmission",,,,,,,59.9000
+"2037/38","Remote Island Wind","Distribution",,,57.9000,,,61.4765,59.9000
+"2037/38","Remote Island Wind","Transmission",,,51.8900,,,61.3132,59.9000
+"2038/39","Remote Island Wind","Distribution",,,57.9000,,,61.4765,61.7000
+"2038/39","Remote Island Wind","Transmission",,,51.8900,,,61.3132,61.7000
+"2038/39","Geothermal","Distribution",,,,,,165.5900,61.7000
+"2038/39","Nuclear","Transmission",,,,125.9561,,125.9561,61.7000
+"2038/39","Tidal Stream","Distribution",,,,,,263.5628,61.7000
+"2038/39","Tidal Stream","Transmission",,,,,,263.7939,61.7000
+"2038/39","Onshore Wind","Distribution",101.6017,,,,,88.6091,61.7000
+"2038/39","Onshore Wind","Transmission",113.4788,,,,,72.7382,61.7000
+"2038/39","Dedicated Biomass","Distribution",,,,,,,61.7000
+"2038/39","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,61.7000
+"2038/39","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,61.7000
+"2038/39","Floating Offshore Wind","Distribution",,,,,,121.4800,61.7000
+"2038/39","Energy from Waste","Distribution",111.3200,,,,,111.3200,61.7000
+"2038/39","Biomass Conversion","Distribution",,,,,,,61.7000
+"2038/39","Biomass Conversion","Transmission",,,,,,,61.7000
+"2038/39","Offshore Wind","Distribution",,,,,,,61.7000
+"2038/39","Offshore Wind","Transmission",163.2979,62.8024,53.3287,,123.2741,72.7340,61.7000
+"2038/39","Solar PV","Distribution",11.2500,,,,,64.2677,61.7000
+"2038/39","Solar PV","Transmission",,,,,,62.6901,61.7000
+"2039/40","Solar PV","Distribution",11.2500,,,,,64.2675,63.7000
+"2039/40","Solar PV","Transmission",,,,,,62.6856,63.7000
+"2039/40","Floating Offshore Wind","Distribution",,,,,,121.4800,63.7000
+"2039/40","Nuclear","Transmission",,,,125.9561,,125.9561,63.7000
+"2039/40","Tidal Stream","Distribution",,,,,,263.5628,63.7000
+"2039/40","Tidal Stream","Transmission",,,,,,263.7939,63.7000
+"2039/40","Remote Island Wind","Distribution",,,57.9000,,,61.4765,63.7000
+"2039/40","Remote Island Wind","Transmission",,,51.8900,,,61.3132,63.7000
+"2039/40","Geothermal","Distribution",,,,,,165.5900,63.7000
+"2039/40","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,63.7000
+"2039/40","Onshore Wind","Distribution",101.6045,,,,,88.6127,63.7000
+"2039/40","Onshore Wind","Transmission",113.4788,,,,,72.7266,63.7000
+"2039/40","Dedicated Biomass","Distribution",,,,,,,63.7000
+"2039/40","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,63.7000
+"2039/40","Offshore Wind","Distribution",,,,,,,63.7000
+"2039/40","Offshore Wind","Transmission",163.2922,62.7803,53.3278,,123.2741,72.7347,63.7000
+"2039/40","Energy from Waste","Distribution",111.3200,,,,,111.3200,63.7000
+"2039/40","Biomass Conversion","Distribution",,,,,,,63.7000
+"2039/40","Biomass Conversion","Transmission",,,,,,,63.7000
+"2040/41","Biomass Conversion","Distribution",,,,,,,62.1000
+"2040/41","Biomass Conversion","Transmission",,,,,,,62.1000
+"2040/41","Geothermal","Distribution",,,,,,165.5900,62.1000
+"2040/41","Remote Island Wind","Distribution",,,57.9000,,,61.4765,62.1000
+"2040/41","Remote Island Wind","Transmission",,,51.8900,,,61.3132,62.1000
+"2040/41","Floating Offshore Wind","Distribution",,,,,,121.4800,62.1000
+"2040/41","Solar PV","Distribution",11.2500,,,,,64.2679,62.1000
+"2040/41","Solar PV","Transmission",,,,,,62.6908,62.1000
+"2040/41","Offshore Wind","Distribution",,,,,,,62.1000
+"2040/41","Offshore Wind","Transmission",163.2979,62.7803,53.3290,,123.2741,72.7259,62.1000
+"2040/41","Dedicated Biomass","Distribution",,,,,,,62.1000
+"2040/41","Dedicated Biomass","Transmission",,,,,173.6000,173.6000,62.1000
+"2040/41","Advanced Conversion Technology","Distribution",166.8300,,,,,166.8300,62.1000
+"2040/41","Nuclear","Transmission",,,,125.9561,,125.9561,62.1000
+"2040/41","Tidal Stream","Distribution",,,,,,263.5628,62.1000
+"2040/41","Tidal Stream","Transmission",,,,,,263.7939,62.1000
+"2040/41","Energy from Waste","Distribution",111.3200,,,,,111.3200,62.1000
+"2040/41","Onshore Wind","Distribution",101.6017,,,,,88.6091,62.1000
+"2040/41","Onshore Wind","Transmission",113.4788,,,,,72.7382,62.1000
